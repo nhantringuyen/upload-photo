@@ -1,0 +1,6 @@
+{
+  "name": "Time-Travel Photo Booth",
+  "description": "Step into history with an AI photo booth that captures your face and transports you to legendary eras with custom scenes, authentic styling, vintage filters, and Google Drive cloud archives.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
